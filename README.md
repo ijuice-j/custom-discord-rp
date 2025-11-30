@@ -20,8 +20,8 @@ A lightweight Electron desktop app that gives you complete control over your Dis
 
 ```bash
 # Clone the repository
-git clone https://github.com/ijuice-j/discord-rich-presence-controller.git
-cd discord-rich-presence-controller
+git clone https://github.com/ijuice-j/custom-discord-rp.git
+cd custom-discord-rp
 
 # Install dependencies
 npm install
